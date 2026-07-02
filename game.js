@@ -217,3 +217,5 @@ window.addEventListener("resize", () => {
 });
 
 gameLoop();
+
+
